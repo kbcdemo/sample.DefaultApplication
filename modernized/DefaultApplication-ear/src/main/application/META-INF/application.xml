@@ -8,7 +8,7 @@
       <module id="WebModule_1">
          <web>
             <web-uri>DefaultWebApplication.war</web-uri>
-            <context-root>/</context-root>
+            <context-root>/default</context-root>
          </web>
       </module>
       <security-role id="SecurityRole_1">
